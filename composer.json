@@ -1,0 +1,21 @@
+{
+    "name": "davidnsai/davidnsai-gemstone",
+    "description": "This is a PHP library for the Gemstone API",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "David Nsai",
+            "email": "david@davidnsai.com",
+            "homepage": "https://davidnsai.com",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Gemstone\\": "src"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
